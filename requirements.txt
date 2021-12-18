@@ -1,0 +1,4 @@
+# Runtime requirements
+scipy
+numpy
+Cython
