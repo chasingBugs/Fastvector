@@ -15,18 +15,18 @@ from .vector import VectorND
 
 
 __all__ = [
-    'cython_clip_vector',
-    'naive_cython_clip_vector',
-    'python_clip_vector',
-    'float32',
-    'float64',
-    'uint8',
-    'int8',
-    'uint16',
-    'int16',
-    'uint32',
-    'int32',
-    'uint64',
-    'int64',
-    'VectorND'
+    "cython_clip_vector",
+    "naive_cython_clip_vector",
+    "python_clip_vector",
+    "float32",
+    "float64",
+    "uint8",
+    "int8",
+    "uint16",
+    "int16",
+    "uint32",
+    "int32",
+    "uint64",
+    "int64",
+    "VectorND",
 ]
